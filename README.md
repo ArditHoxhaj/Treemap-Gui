@@ -1,1 +1,2 @@
-# Project Repository
+# TreeMap Gui
+# The purpose of this project is simple, it allows the user to open a GUI, which then prompts the user to select a .txt file from their device. The GUI will then display that .txt file in the left hand side column, on the right hand side will currently be blank. The user will then be able to interact with the JFrameBar which then allows the user to select a vowel, in doing so the right hand column will then display a list in lexicon in order of all words that start with the vowels that the user selected. Showing the word and line number in which the word comes from.
